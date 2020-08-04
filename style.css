@@ -1,0 +1,27 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #E5E5E5;
+}
+.top-player{
+    background-color:royalblue
+}
+.text-player{
+    color: #562EFF;
+}
+hr{
+    border: 1px solid #D1D1D1;
+}
+
+.hours p{
+    font-size:14px;
+    background-color: rgba(243, 114, 114, 0.37);
+    margin: 0px;
+}
+.footer-color{
+    background-color:skyblue;
+}
+.copy{
+    font-size: 12px;
+}
